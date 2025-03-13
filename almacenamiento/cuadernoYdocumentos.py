@@ -1,0 +1,3 @@
+CUADERNOS = []
+DOCUMENTOS = []
+
